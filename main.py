@@ -22,8 +22,6 @@ def get_started(message):
 
 @bot.message_handler(content_types=['text'])
 def translate_text(message):
-    src = 'ru'
-    dest = 'en'
     if message.text == "Поменять язык перевода на русский":
         src = 'en'
         dest = 'ru'
