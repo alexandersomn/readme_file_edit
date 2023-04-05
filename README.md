@@ -1,4 +1,8 @@
 # **Проект TelegramBotTranslator**
 
 #### **Используемыe библиотеки и API:**
-- 1. pyTelegramBotAPI ([Документация](https://pytba.readthedocs.io/en/latest/index.html))
+-  pyTelegramBotAPI ([Документация](https://pytba.readthedocs.io/en/latest/index.html))
+- Python Requests ((Документация)[[Python Requests](https://pythonru.com/biblioteki/kratkoe-rukovodstvo-po-biblioteke-python-requests)])
+- Google Translate API ((Документация)[https://pypi.org/project/googletrans/])
+
+
