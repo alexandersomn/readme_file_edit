@@ -1,1 +1,1 @@
-###### **Проект TelegramBotTranslator (bold)**
+###### **Проект TelegramBotTranslator**
